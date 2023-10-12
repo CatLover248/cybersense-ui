@@ -23,6 +23,20 @@ function Dashboard() {
             </div>
           </div>
         </div>
+        <div className="View-section">
+          <div className="View-status-gradient View-status-gradient-up">
+          </div>
+          <div>
+            <h2>Ping</h2>
+            <div className="View-service-routes">
+              <div className="View-service-route">
+                <h3>127.0.0.1</h3>
+                <h3>O</h3>
+              </div>
+
+            </div>
+          </div>
+        </div>
     </div>
   )
 }
